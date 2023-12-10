@@ -1,27 +1,29 @@
 # Content Management System - CP3402 - Week 3 - Learning Journal
 
 ## Learning Activities & Resources
- - This week I learned to create a website using Joomla. The website content is based on the previous one I created in week 1. To complete this practical,
-   I focused on some online resources such as articles and videos from youtube, which also help me build a solid foundation and preparations for assignment 1.
+ - For this week's practical, I created a website using the CMS platform called WordPress through Infinity Free. I reused the content and goals from the website I made last week. My focus was on learning how to effectively utilize WordPress, a skill that I believe will greatly help me in both individual and group assignments.
  - Resources:
-   - [Joomla Tutorial for Beginners](https://www.hostinger.com/tutorials/joomla/)
-   - [Joomla tutorial for beginners (part 1). How to build a website from scratch](https://www.youtube.com/watch?v=qFVBzT3FTi8)
+   - [Contact Form Template](https://codepen.io/hubspot/pen/gOvBMEx)
+   - [Twenty Seventeen Theme Tutorial: Make a WordPress Website!](https://www.youtube.com/watch?v=gR-bavzZd38)
+   - [How To Build A Website with WordPress in 2023 (Full Tutorial)](https://www.youtube.com/watch?v=AABmCvjd_iU&t=540s)
+     
 
 ## Estimated Hours
-For this week's practical, I spent approximately 24 hours on learning and creating the website by using Joomla.
+I spent a total of 24 hours learning and developing the WordPress website.
 
 ## Content Insights
+I reused all the content from the website I created last week and developed it further using WordPress. I added new elements like a call-to-action button and a contact form, allowing customers to click the button, which directs them to the contact page where they can fill out the form to get in touch.
 
-This time I created a website that is based on the previous website but with a few differences. I noticed that the bakery shops should not only be focusing on 
-the youth but also on the old-aged audience. Thus, I expanded the menu options by adding super healthy bakery products and beverages for the senior audiences, 
-increasing the bakery market from young adults to seniors.
-
-Throughout this journey, I found some difficulties in utilizing Joomla at first but got them all solved after watching the videos and reading the articles on 
-the web. I uploaded some images to make the website more user-friendly. For this website, I applied the template named "Cassiopeia" and edited it. The template 
-definitely shortens my time in creating a new one.
+During this journey, I encountered confusion in the initial stages of creating the website using WordPress. My understanding of WordPress improved significantly after watching tutorial videos on YouTube. I discovered the HTML code for the contact form and successfully applied it to my contact page, allowing customers to fill in their information and reach out to us. I chose the 'twenty seventeen' theme, which I found suitable for my website, I followed a step-by-step video on customizing it. This not only saved my time but also deepened my understanding of utilizing WordPress.
 
 ## Career/Employability/Learning Insights
+This week, I acquired valuable insights into learning a new CMS platform, WordPress, for website development, in addition to platforms like GitHub and Joomla. I found that watching short tutorial videos and immediately applying the practical aspects helped me gain a deeper understanding of the content. Working with WordPress provided me with profound insights into its effective utilization for website development.
 
-The conclusion of this week is that I learned a new way to create websites besides using GitHub and WordPress. 
-I discovered that sometimes watching videos takes a long time. So instead of watching, I read the articles which 
-is much faster. My experience utilizing Joomla gave me a deep insight into exploring a new tool to create a website.
+In comparing Joomla and WordPress, I discovered that WordPress is more flexible, offering a broader range of theme options. As a result, it has become my preferred choice for website development.
+
+## Group Formation
+This week, I conducted interviews with my fellow peers to select the right members for my upcoming assignments. After interviewing each peer and carefully considering their responses, I chose three individuals to form a group. I chose them for several reasons: we share similar concepts and ideas, we are on the same page, and they demonstrate a strong sense of responsibility, ensuring active participation. Additionally, they are open to feedback and willing to make improvements based on it. The chosen teammates are:
+
+ 1. Adrianto Hartono
+ 2. Joseph Paolo Tan
+ 3. James Wongsonegoro
